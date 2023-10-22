@@ -1,6 +1,4 @@
 
-![Kitten Connect Logo](https://www.kittenconnect.net/img/avatar_hu489e5903ca02450cd7d8133b45558ac4_956412_300x0_resize_box_3.png)
-
 ### About Kitten Connect
 
 Hello folks,
