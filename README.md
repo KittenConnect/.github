@@ -8,7 +8,7 @@ Hello folks,
 
 Ready to take a pawsome plunge into the world of tech? If you’re passionate about IT and networking and you want to infuse that with community vibes and fun, KittenConnect is the purrfect place for you.
 
-#### What is KittenConnect?
+#### What is KittenConnect? 🐱
 
 KittenConnect is a non-profit organization that gathers IT professionals, networking aficionados, and even beginners who are curious to learn. Our mission? To make IT and networking as cute and fun as a basket of kittens while also sharing valuable knowledge and resources.
 
@@ -38,4 +38,4 @@ KittenConnect is all about breaking barriers. We blend learning, networking, and
 
 So, ready to get your paws dirty in the world of IT? We can’t wait to have you on board!
 
-See you in the network!
+See you in the network! 🚀
