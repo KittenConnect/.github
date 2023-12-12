@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 [![Website KittenConnect](https://img.shields.io/website-up-down-green-red/http/kittenconnect.net.svg)](http://kittenconnect.net/)
-[![KittenDiscord](https://badgen.net/discord/members/csharp)](https://discord.gg/X4BtdBMnvu)
+[![KittenDiscord](https://badgen.net/discord/members/X4BtdBMnvu)](https://discord.gg/X4BtdBMnvu)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/KittenConnect)
 
 
