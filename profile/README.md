@@ -4,8 +4,7 @@
 
 [![Website KittenConnect](https://img.shields.io/website-up-down-green-red/http/kittenconnect.net.svg)](http://kittenconnect.net/) 
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
+[![Sparkline](https://stars.medv.io/kittenconnect/go-facter.svg)](https://stars.medv.io/kittenconnect/go-facter)
 
 ### About Kitten Connect
 
