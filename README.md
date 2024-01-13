@@ -1,7 +1,16 @@
 
 
 ![Kitten Connect Logo](https://www.kittenconnect.net/img/avatar_hu489e5903ca02450cd7d8133b45558ac4_956412_300x0_resize_box_3.png)
+# Badges
 
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+
+[![Website KittenConnect](https://img.shields.io/website-up-down-green-red/http/kittenconnect.net.svg)](http://kittenconnect.net/)
+[![KittenDiscord](https://badgen.net/discord/members/v9DCcBkTfW)](https://discord.gg/X4BtdBMnvu)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/KittenConnect)
 ### About Kitten Connect
 
 Hello folks,
