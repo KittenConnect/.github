@@ -38,7 +38,7 @@ We encourage members to either contribute to existing open source projects or st
 
 ### How Can You Join?
 
-Want to be part of the fun? Simply sign up on our [Discord](https://discord.gg/kittenconnect), and you’ll be updated about all upcoming events and activities.
+Want to be part of the fun? Simply sign up on our [Discord](https://discord.gg/X4BtdBMnvu), and you’ll be updated about all upcoming events and activities.
 
 ### Final Words
 
